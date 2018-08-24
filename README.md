@@ -1,6 +1,6 @@
 # Weather Chatbot
 
-Demo of a Weather bot, built with React, Pusher and Dialogflow. Tutorial:
+Demo of a Weather bot, built with React, Pusher and Dialogflow. Tutorial: https://pusher.com/tutorials/weather-chatbot-react-dialogflow
 
 ## Getting Started
 
