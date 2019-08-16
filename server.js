@@ -16,6 +16,7 @@ app.use(bodyParser.urlencoded({ extended: true }));
 app.post('/chat', (req, res) => {
   const { message } = req.body;
   processMessage(message);
+  res.send();
 });
 
 app.set('port', process.env.PORT || 5000);
